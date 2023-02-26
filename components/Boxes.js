@@ -1,5 +1,5 @@
 import { Button, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
-import React from 'react'
+
 
 export const Boxes = ({navigation}) => {
     return (
